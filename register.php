@@ -37,7 +37,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <input type="password" name="password" class="form-control mb-3" placeholder="Password" required>
                 <button class="btn btn-primary w-100">Register</button>
             </form>
-            <p class="text-center mt-3">Sudah punya akun? <a href="index.php">Login</a></p>
+            <p class="text-center mt-3">Already Have Account? <a href="index.php">Login</a></p>
         </div>
     </div>
 </div>
