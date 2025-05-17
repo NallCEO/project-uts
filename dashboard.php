@@ -16,7 +16,7 @@ if (!isset($_SESSION['username'])) {
 <div class="container mt-5 text-center">
     <div class="card p-5">
         <h2>Selamat datang, <?= $_SESSION['username'] ?>!</h2>
-        <a href="logout.php" class="btn btn-danger mt-4">Logout</a>
+        <a href="logout.php" class="btn btn-danger mt-4">-Logout-</a>
     </div>
 </div>
 </body>
